@@ -55,7 +55,6 @@
 		</plugins>
 	</build>
 
-
 	<modules>
 		<module>domain</module>
 		<module>persistence</module>
